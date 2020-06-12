@@ -42,9 +42,9 @@ or just
 
 ```
 sh /home/dlf/pyprojects/start_event_demo.sh
-
 ```
-<img src="https://github.com/LifangD/FEEN/blob/master/imgs/demo.gif" width="100%">
+
+[demo video](https://www.bilibili.com/video/BV1CT4y1E7cZ/)
 
 ## Reference 
 - https://github.com/lonePatient/daguan_2019_rank9
