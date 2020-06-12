@@ -2,7 +2,7 @@
 
 
 ## Background
-This work is maily to solve the partial labeling problem in Event Extraction. Basing on the architecture of BERT, it introduces the partial CRF to improve the recall and the anchor mechanism to improve precision. 
+This work is mainly to solve the partial labeling problem in Event Extraction. Basing on the architecture of BERT, it introduces the partial CRF to improve the recall and the anchor mechanism to improve precision. 
 
 <img src="https://github.com/LifangD/FEEN/blob/master/imgs/partial.png" width="50%">
 
