@@ -4,14 +4,16 @@
 ## Background
 This work is maily to solve the partial labeling problem in Event Extraction. Basing on the architecture of BERT, it introduces the partial CRF to improve the recall and the anchor mechanism to improve precision. 
 
-<img src="https://github.com/LifangD/FEEN/imgs/partial.png" width="50%">
+<img src="https://github.com/LifangD/FEEN/blob/master/imgs/partial.png" width="50%">
 
-## Architecture
-<img src="https://github.com/LifangD/FEEN/imgs/arc.png" width="50%">
-## Prepare
-   1. Dataset   
+## Architecture 
+<img src="https://github.com/LifangD/FEEN/blob/master/imgs/arc.png" width="50%">
+
+## Prepare  
+
+  1. Dataset   
       please refer to [FEENDataProcessor](https://github.com/LifangD/FEENDataProcessor) (not open yet)
-   2. Download Pretrained BERT (Chinese)
+  2. Download Pretrained BERT (Chinese)
       
        
 
@@ -27,7 +29,7 @@ sh scripts/eval.sh
 
 
 ## Result 
-<img src="https://github.com/LifangD/FEEN/imgs/result.png" width="50%">
+<img src="https://github.com/LifangD/FEEN/blob/master/imgs/result.png" width="50%">
 
 
 ## DEMO
@@ -42,8 +44,7 @@ or just
 sh /home/dlf/pyprojects/start_event_demo.sh
 
 ```
+<img src="https://github.com/LifangD/FEEN/blob/master/imgs/FEEN_demo.gif" width="50%">
 
-<img src="https://github.com/LifangD/FEEN/imgs/FEEN_demo.gif" width="50%">
-## Reference
-
+## Reference 
 - https://github.com/lonePatient/daguan_2019_rank9
