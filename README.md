@@ -44,7 +44,7 @@ or just
 sh /home/dlf/pyprojects/start_event_demo.sh
 
 ```
-<img src="https://github.com/LifangD/FEEN/blob/master/imgs/FEEN_demo.gif" width="100%">
+<img src="https://github.com/LifangD/FEEN/blob/master/imgs/demo.gif" width="100%">
 
 ## Reference 
 - https://github.com/lonePatient/daguan_2019_rank9
